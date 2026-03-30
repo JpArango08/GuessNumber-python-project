@@ -29,7 +29,7 @@ Desarrollar proyectos individuales desde cero
 
 Clona este repositorio:
 
-git clone https://github.com/tu-usuario/adivina-numero.git
+git clone https://github.com/JpArango08/GuessNumber-python-project
 
 Instala las dependencias:
 
